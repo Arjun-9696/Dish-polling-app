@@ -1,0 +1,16 @@
+ .dishList{
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius:10px;
+ }
+ .dishList:hover{
+    border: 1px solid #3182ce;
+    background-color:#3182ce
+ }
+ .active {
+     color: white;
+     background-color: #2d4cffe7;
+     border: 1px solid #2d4cffe7;
+ }

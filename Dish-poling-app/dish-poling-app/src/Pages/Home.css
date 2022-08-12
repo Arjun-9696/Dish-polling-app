@@ -1,0 +1,18 @@
+.tabs-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tabs-container .nav {
+    display: flex;
+    justify-content: center;
+}
+
+.tabs-container .nav-item {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
