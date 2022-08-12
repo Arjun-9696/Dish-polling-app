@@ -16,10 +16,12 @@
 - App Link [**https://dish-polling-app.vercel.app**](https://dish-polling-app.vercel.app/signin) 
 - Sign in and sign up Api [**Click**](https://arjun-auth.herokuapp.com)
 
+<br>
+
 ### You can clone this app and run npm i to install all the dependencies, then start the app by running the command npm start. It will open on localhost:3000
 
-####  If you find anything that needs to be added, please open issues on GitHub and I'll fix them.
-
+### If you find anything that needs to be added, please open issues on GitHub and I'll fix them.
+### The app is compatible with all devices and has responsive functionality.
 ## Overview of Dish-polling-app 
 ### Sign-Up page
 <p align="left"><img height="380" width="850" src="https://github.com/Arjun-9696/Dish-polling-app/blob/main/Images/SignUp.png"></p>
