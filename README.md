@@ -18,6 +18,8 @@
 
 ### You can clone this app and run npm i to install all the dependencies, then start the app by running the command npm start. It will open on localhost:3000
 
+####  If you find anything that needs to be added, please open issues on GitHub and I'll fix them.
+
 ## Overview of Dish-polling-app 
 ### Sign-Up page
 <p align="left"><img height="380" width="850" src="https://github.com/Arjun-9696/Dish-polling-app/blob/main/Images/SignUp.png"></p>
@@ -43,4 +45,5 @@
 ### Error page
 <p align="left"><img height="380" width="850" src="https://github.com/Arjun-9696/Dish-polling-app/blob/main/Images/ErrorPage.png"></p>
 <hr/>
+
 # Thank you
