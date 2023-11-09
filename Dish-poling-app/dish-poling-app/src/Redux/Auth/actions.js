@@ -6,7 +6,7 @@ const register = (payload) => (dispatch) => {
   dispatch({ type: types.REGISTER_REQUEST });
 
   return axios
-    .post('https://arjun-auth.herokuapp.com/register', payload)
+    .post('https://dish-polling-backend.onrender.com/register', payload)
     .then((r) => {
       dispatch({ type: types.REGISTER_SUCCESS, payload: r.data });
       return types.REGISTER_SUCCESS;
@@ -21,7 +21,7 @@ const login = (params) => (dispatch) => {
   dispatch({ type: types.LOGIN_REQUEST });
 
   return axios
-    .post('https://arjun-auth.herokuapp.com/login', params)
+    .post('https://dish-polling-backend.onrender.com/login', params)
     .then((r) => {
       dispatch({ type: types.LOGIN_SUCCESS, payload: r.data });
       return types.LOGIN_SUCCESS;
