@@ -12,9 +12,9 @@ const AllRouter = () => {
       <Route
         path="/"
         element={
-{/*           <PrivateRoute>
+          <PrivateRoute>
             <Home />
-          </PrivateRoute> */}
+          </PrivateRoute> 
         }
       />
 
